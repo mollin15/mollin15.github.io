@@ -1,4 +1,4 @@
-# mollins.github.io
+# [主站](mollins.github.io)
 
 ## [2048](mollin15.github.io/2048.html)
 
