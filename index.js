@@ -58,13 +58,13 @@ function clickCell(event) {
     var isWin = checkWin(currentPlayer);
     if (isWin) {
         message.style.display = 'block';
-        winner.innerText = currentPlayer + ' 赢了！';
+        winner.innerText = currentPlayer + ' 赢了！汪盈宝NB';
         return;
     }
     // 判断平局
     if (steps === 9) {
         message.style.display = 'block';
-        winner.innerText = '平局';
+        winner.innerText = '平局! 汪盈宝NB';
         return;
     }
     // 根据当前玩家，得到另外一个玩家
