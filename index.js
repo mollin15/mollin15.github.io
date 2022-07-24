@@ -58,7 +58,7 @@ function clickCell(event) {
     var isWin = checkWin(currentPlayer);
     if (isWin) {
         message.style.display = 'block';
-        winner.innerText = currentPlayer + ' 赢了！汪盈宝NB';
+        winner.innerText = currentPlayer + ' 赢了！';
         return;
     }
     // 判断平局
