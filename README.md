@@ -1,4 +1,6 @@
-# [主站](https://mollins.github.io)
+~~这里是边缘~~
+
+# [$Blog$](https://mollins.github.io)
 
 # $摆烂哈$
 
