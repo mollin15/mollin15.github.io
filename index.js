@@ -64,7 +64,7 @@ function clickCell(event) {
     // 判断平局
     if (steps === 9) {
         message.style.display = 'block';
-        winner.innerText = '平局! 汪盈宝NB';
+        winner.innerText = '平局!';
         return;
     }
     // 根据当前玩家，得到另外一个玩家
