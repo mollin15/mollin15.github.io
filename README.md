@@ -1,6 +1,6 @@
 ~~这里是边缘~~
 
-# [$Blog$](https://mollins.github.io)
+# [ $ Blog $ ](https://mollins.github.io)
 
 # $摆烂哈$
 
