@@ -2,7 +2,7 @@
 
 [Blog](https://mollin.vercel.app)
 
-[Blog](https://mollins.github.io) 
+[Blog2](https://mollins.github.io) 
 
 ~~太烂了还是别看了~~
 
