@@ -1,6 +1,6 @@
 ~~这里是边缘~~
-
-[Blog](https://mollins.github.io) ~~太烂了还是别看了~~
+[Blog1](https://mollin.vercel.app)
+[Blog2](https://mollins.github.io) ~~太烂了还是别看了~~
 
 # $摆烂哈$
 
