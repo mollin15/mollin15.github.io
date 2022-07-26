@@ -1,5 +1,5 @@
 ~~这里是边缘~~
-
+[Blog](https://mollin.vercel.app)
 [Blog](https://mollins.github.io) ~~太烂了还是别看了~~
 
 # $摆烂哈$
