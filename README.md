@@ -1,8 +1,8 @@
 ~~这里是边缘~~
 
-[Blog](https://mollin.vercel.app)
+[Blog](https://mollins.github.io) 
 
-[Blog2](https://mollins.github.io) 
+[Blog2（玩具）](https://mollin.vercel.app)
 
 ~~太烂了还是别看了~~
 
